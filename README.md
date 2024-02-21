@@ -1,2 +1,2 @@
-# GTKWindow
-Small application to help me figure out how GitHub works
+# GTK apps
+Small applications to help me figure out how GTK works
