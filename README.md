@@ -1,2 +1,2 @@
 # GTK apps
-Small applications to help me figure out how GTK works
+Small application to help me figure out how GTK works
